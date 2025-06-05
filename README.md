@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Event Discovery Platform
+A modern, responsive React-based web application for discovering and browsing events with an intuitive user interface and seamless user experience.
+## Technologies & Tools Used
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Frontend Framework
 
-## Available Scripts
+React 18 - Modern JavaScript library for building user interfaces
+React Hooks (useState, useEffect, useRef) - For state management and side effects
 
-In the project directory, you can run:
+### Styling & UI
 
-### `npm start`
+Bootstrap 5 - CSS framework for responsive design and components
+Lucide React - Beautiful, customizable SVG icons
+Custom CSS - Additional styling with CSS-in-JS using styled-jsx
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Development Tools
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+JavaScript (ES6+) - Modern JavaScript features
+JSX - JavaScript syntax extension for React
+CSS3 - Advanced styling with animations and transitions
 
-### `npm test`
+# How to Run the Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Prerequisites
 
-### `npm run build`
+Node.js (version 14 or higher)
+npm or yarn package manager
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation Steps
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Clone the repository
+cd the cloned directory
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Install dependencies
+npm install
+# or
+yarn install
 
-### `npm run eject`
+## Start the development server
+npm start
+# or
+yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Open your browser
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Navigate to http://localhost:3000
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The application will automatically reload if you make changes to the code

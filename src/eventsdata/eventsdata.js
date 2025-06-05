@@ -4,7 +4,7 @@ export const eventsData = [
       name: "Tech Startup Networking Night",
       date: "2025-06-15",
       time: "18:00",
-      location: "Innovation Hub, Downtown",
+      location: "I-8 Markaz, Islamabad",
       description: "Connect with fellow entrepreneurs and tech enthusiasts. Great opportunity to share ideas and build meaningful professional relationships.",
       image: "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=400&h=200&fit=crop",
       category: "Networking"
@@ -14,7 +14,7 @@ export const eventsData = [
       name: "Summer Music Festival",
       date: "2025-06-20",
       time: "15:00",
-      location: "Central Park Amphitheater",
+      location: "F-9 Park, Islamabad",
       description: "Join us for an afternoon of live music featuring local bands and artists. Food trucks and family activities available.",
       image: "https://images.unsplash.com/photo-1493676304819-0d7a8d026dcf?w=400&h=200&fit=crop",
       category: "Music"

@@ -17,18 +17,23 @@ const Footer = () => {
           {/* Company Info */}
           <div className="col-12 col-md-4">
             <div className="d-flex align-items-center mb-3">
-              <div className="d-flex align-items-center justify-content-center bg-primary rounded me-3" style={{ width: 32, height: 32 }}>
-                <Calendar size={20} color="#fff" />
+              <div className="d-flex align-items-center justify-content-center bg-primary rounded-circle me-3" style={{ width: 44, height: 44, overflow: 'hidden' }}>
+                <img
+      src="/logo.png"
+      alt="logo"
+      className="img-fluid"
+      style={{ width: 44, height: 44, objectFit: 'contain' }}
+    />
               </div>
               <span className="fs-5 fw-bold">EventHub</span>
             </div>
             <p className="text-secondary mb-0">
-              Connecting communities through amazing local events.
+              If you want to organize an event or having problem with registering you may contact our team for any questions or queries. We will be pleased to assist you.
             </p>
           </div>
 
           {/* Quick Links */}
-          <div className="col-12 col-md-4">
+          <div className="col-12 col-md-4 d-flex flex-column align-items-md-center">
             <h4 className="fs-6 fw-semibold mb-3">Quick Links</h4>
             <ul className="list-unstyled mb-0">
               {quickLinks.map((link) => (
@@ -48,8 +53,8 @@ const Footer = () => {
           <div className="col-12 col-md-4">
             <h4 className="fs-6 fw-semibold mb-3">Contact Info</h4>
             <div className="text-secondary">
-              <p className="mb-2">hello@eventhub.com</p>
-              <p className="mb-0">(555) 123-4567</p>
+              <p className="mb-2">3tk2021@gmail.com</p>
+              <p className="mb-0">+92 313 0123456</p>
             </div>
           </div>
         </div>
