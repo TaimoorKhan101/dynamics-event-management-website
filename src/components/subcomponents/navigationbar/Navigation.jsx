@@ -15,7 +15,7 @@ const Navigation = () => {
     <nav className="navbar navbar-expand-md navbar-light bg-white shadow sticky-top">
       <div className="container">
         {/* Logo */}
-        <a className="navbar-brand d-flex align-items-center" href="#">
+        <a className="navbar-brand d-flex align-items-center" href='#'>
           <span className="d-inline-flex align-items-center justify-content-center bg-primary rounded me-2" style={{ width: 32, height: 32 }}>
             <Calendar size={20} color="#fff" />
           </span>

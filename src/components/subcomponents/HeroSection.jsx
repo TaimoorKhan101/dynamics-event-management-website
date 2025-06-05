@@ -8,7 +8,7 @@ const HeroSection = () => {
           Discover Events Near You
         </h1>
         <p className="lead text-light mx-auto" style={{ maxWidth: 700 }}>
-          Find amazing local events, connect with your community, and create unforgettable memories
+          Find amazing local events, connect with a community, and create unforgettable memories
         </p>
       </div>
     </section>
