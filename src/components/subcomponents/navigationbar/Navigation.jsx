@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Calendar } from 'lucide-react';
 import MobileMenu from './MobileMenu';
 
 const Navigation = () => {

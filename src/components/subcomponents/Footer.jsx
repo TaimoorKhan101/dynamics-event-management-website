@@ -1,5 +1,4 @@
 import React from 'react';
-import { Calendar } from 'lucide-react';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
