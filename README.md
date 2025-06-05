@@ -19,6 +19,10 @@ JavaScript (ES6+) - Modern JavaScript features
 JSX - JavaScript syntax extension for React
 CSS3 - Advanced styling with animations and transitions
 
+# Deployed URL
+
+https://dynamics-event-management-website.vercel.app/
+
 # How to Run the Project
 
 ## Prerequisites
@@ -33,12 +37,12 @@ cd the cloned directory
 
 ## Install dependencies
 npm install
-# or
+or
 yarn install
 
 ## Start the development server
 npm start
-# or
+or
 yarn start
 
 ## Open your browser
